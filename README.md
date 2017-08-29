@@ -1,4 +1,4 @@
-# Go Cheat Sheet
+# Go Syntax Summary
 
 # Index
 1. [Basic Syntax](#basic-syntax)
@@ -69,7 +69,7 @@ func main() {
     fmt.Println("Hello Go")
 }
 ```
-`$ go run hello.go`
+`$ go run hello.go`   or go build/install
 
 ## Operators
 ### Arithmetic
